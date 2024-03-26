@@ -1,6 +1,7 @@
 
 # [Diverse Facets of Urban Digital Learning: Analyzing Each Locale's Characteristics](https://pads.moe.edu.tw/pads_front/index.php?action=plan&uuid=9e864ad5-3709-4044-8f94-56f9b7e49743)
-![image](https://hackmd.io/_uploads/rkxM7Pek0.png)
+![image](https://i.imgur.com/q3FHkPG.jpeg)
+![image](https://i.imgur.com/4x2pQB1.jpeg)
 
 ## Description:
 This project aims to investigate the behavioral differences of users on digital learning platforms across different cities, including viewing habits, query frequencies, and performance in quizzes. Additionally, it proposes a method to predict users' cities based on their interaction records, assisting the platform in gaining a more accurate understanding of its users. The project encompasses data cleaning, feature engineering, machine learning model training, and analysis.
