@@ -1,5 +1,6 @@
 
-# Diverse Facets of Urban Digital Learning: Analyzing Each Locale's Characteristics
+# [Diverse Facets of Urban Digital Learning: Analyzing Each Locale's Characteristics](https://pads.moe.edu.tw/pads_front/index.php?action=plan&uuid=9e864ad5-3709-4044-8f94-56f9b7e49743)
+![image](https://hackmd.io/_uploads/rkxM7Pek0.png)
 
 ## Description:
 This project aims to investigate the behavioral differences of users on digital learning platforms across different cities, including viewing habits, query frequencies, and performance in quizzes. Additionally, it proposes a method to predict users' cities based on their interaction records, assisting the platform in gaining a more accurate understanding of its users. The project encompasses data cleaning, feature engineering, machine learning model training, and analysis.
@@ -30,11 +31,6 @@ Generating decision tree model visualizations, preparing analysis reports, etc.
 - Relevant Python libraries: pandas, scikit-learn, pydotplus.
 Contributors:
 
-## Contributor:
-- Jia-Rui Chang
-- zixu203
-
-
-
-[Official Website](https://pads.moe.edu.tw/pads_front/index.php?action=plan&uuid=9e864ad5-3709-4044-8f94-56f9b7e49743)  
-[Docs of the contest](https://drive.google.com/drive/folders/1s38j6t1HFcUET7G4FLS0WLc4lYuEwKHe?usp=sharing)
+## Contributor: 
+- Jia-Rui Chang [jrchang11015043@gmail.com]
+- zixu203 [yolly1977@gmail.com]
